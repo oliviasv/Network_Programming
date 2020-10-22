@@ -1,0 +1,1842 @@
+2020-10-21 03:32:08 INFO  Main:11 - == Program Started ==
+2020-10-21 03:32:08 INFO  Request$Thread:48 - /register
+2020-10-21 03:32:10 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:10 INFO  HttpClient:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TX0R5WFtFV0lbWVpCTkdVV01QRVRbU1cHUVRPVkZYV1FDQkdIU0NBXlRzW1NMVENGX0NATkpSQQg=
+2020-10-21 03:32:10 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:10 INFO  Request$Thread:48 - /home
+2020-10-21 03:32:10 INFO  Request$Thread:48 - /route/4
+2020-10-21 03:32:10 INFO  Request$Thread:48 - /route/3
+2020-10-21 03:32:10 INFO  Request$Thread:48 - /route/2
+2020-10-21 03:32:10 INFO  Request$Thread:48 - /route/1
+2020-10-21 03:32:15 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:15 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:15 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:15 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:15 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:16 INFO  Request$Thread:63 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-21 03:32:16 INFO  Request$Thread:48 - /route/3/3
+2020-10-21 03:32:16 INFO  Request$Thread:48 - /route/3/1
+2020-10-21 03:32:16 INFO  Request$Thread:48 - /route/3/2
+2020-10-21 03:32:16 INFO  Request$Thread:48 - /route/1/1
+2020-10-21 03:32:16 INFO  Request$Thread:48 - /route/1/2
+2020-10-21 03:32:16 INFO  Request$Thread:63 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-21 03:32:16 INFO  Request$Thread:63 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 INFO  Request$Thread:63 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-21 03:32:21 INFO  Request$Thread:63 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:21 INFO  Request$Thread:63 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-21 03:32:21 INFO  Request$Thread:63 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-21 03:32:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:22 INFO  Request$Thread:63 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-21 03:32:22 INFO  Request$Thread:48 - /route/3/3/1
+2020-10-21 03:32:22 INFO  Request$Thread:48 - /route/3/3/2
+2020-10-21 03:32:28 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:28 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:28 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:28 INFO  Request$Thread:63 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-21 03:32:28 INFO  Request$Thread:63 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-21 03:32:28 INFO  Main:15 - == Collected were finished ==
+2020-10-21 03:32:28 INFO  TcpMultiServer:22 - TCP Multi-Server Started
+2020-10-21 03:32:28 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-21 03:32:28 INFO  Request$Thread:63 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 04:12:44 INFO  Main:11 - == Program Started ==
+2020-10-22 04:12:44 INFO  Request$Thread:48 - /register
+2020-10-22 04:12:45 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:45 INFO  HttpClient:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER5WVtHVklYXFpBSkBdUENQRVRbU1cHUVRPVkZYV1FDQkdIU0BBXlVzWVNMUUZGXEdHQUZRQQg=
+2020-10-22 04:12:45 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:45 INFO  Request$Thread:48 - /home
+2020-10-22 04:12:45 INFO  Request$Thread:48 - /route/4
+2020-10-22 04:12:45 INFO  Request$Thread:48 - /route/3
+2020-10-22 04:12:45 INFO  Request$Thread:48 - /route/2
+2020-10-22 04:12:45 INFO  Request$Thread:48 - /route/1
+2020-10-22 04:12:50 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:50 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:50 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:50 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:50 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:51 INFO  Request$Thread:63 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 04:12:51 INFO  Request$Thread:48 - /route/1/1
+2020-10-22 04:12:51 INFO  Request$Thread:48 - /route/1/2
+2020-10-22 04:12:51 INFO  Request$Thread:48 - /route/3/3
+2020-10-22 04:12:51 INFO  Request$Thread:48 - /route/3/1
+2020-10-22 04:12:51 INFO  Request$Thread:48 - /route/3/2
+2020-10-22 04:12:51 INFO  Request$Thread:63 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 04:12:51 INFO  Request$Thread:63 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 INFO  Request$Thread:63 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:56 INFO  Request$Thread:63 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 04:12:56 INFO  Request$Thread:63 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 04:12:56 INFO  Request$Thread:63 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 04:12:57 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:57 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:12:57 INFO  Request$Thread:63 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 04:12:57 INFO  Request$Thread:48 - /route/3/3/1
+2020-10-22 04:12:57 INFO  Request$Thread:48 - /route/3/3/2
+2020-10-22 04:13:03 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:13:03 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:13:03 INFO  Request$Thread:63 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 04:13:03 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:13:03 INFO  Request$Thread:63 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 04:13:03 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 04:13:03 INFO  Request$Thread:63 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 04:13:04 INFO  Main:15 - == Collected were finished ==
+2020-10-22 04:13:04 INFO  TcpMultiServer:22 - TCP Multi-Server Started
+2020-10-22 12:40:25 INFO  Main:11 - == Program Started ==
+2020-10-22 12:44:10 INFO  Main:11 - == Program Started ==
+2020-10-22 12:44:10 INFO  Request$Thread:48 - /register
+2020-10-22 12:44:11 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:11 INFO  HttpClient:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER5UVtCUUlbWFpDTUFVW0FQRVRbU1cHUVRPVkZYV1FDQkdIU0BBXl1zXFVMVEJGXkBGSEFVQQg=
+2020-10-22 12:44:11 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:11 INFO  Request$Thread:48 - /home
+2020-10-22 12:44:11 INFO  Request$Thread:48 - /route/4
+2020-10-22 12:44:11 INFO  Request$Thread:48 - /route/3
+2020-10-22 12:44:11 INFO  Request$Thread:48 - /route/2
+2020-10-22 12:44:11 INFO  Request$Thread:48 - /route/1
+2020-10-22 12:44:16 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:16 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:16 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:16 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:16 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:16 INFO  Request$Thread:63 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 12:44:16 INFO  Request$Thread:48 - /route/1/1
+2020-10-22 12:44:16 INFO  Request$Thread:48 - /route/1/2
+2020-10-22 12:44:16 INFO  Request$Thread:48 - /route/3/3
+2020-10-22 12:44:16 INFO  Request$Thread:48 - /route/3/1
+2020-10-22 12:44:16 INFO  Request$Thread:48 - /route/3/2
+2020-10-22 12:44:17 INFO  Request$Thread:63 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:44:17 INFO  Request$Thread:63 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 INFO  Request$Thread:63 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 12:44:22 INFO  Request$Thread:63 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:22 INFO  Request$Thread:63 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:44:22 INFO  Request$Thread:63 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 12:44:23 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:23 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:23 INFO  Request$Thread:63 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 12:44:23 INFO  Request$Thread:48 - /route/3/3/1
+2020-10-22 12:44:23 INFO  Request$Thread:48 - /route/3/3/2
+2020-10-22 12:44:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:29 INFO  Request$Thread:63 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 12:44:29 INFO  Request$Thread:63 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 12:44:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:44:29 INFO  Request$Thread:63 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 12:44:30 INFO  Main:15 - == Collected were finished ==
+2020-10-22 12:44:30 INFO  TcpMultiServer:22 - TCP Multi-Server Started
+2020-10-22 12:50:08 INFO  Main:11 - == Program Started ==
+2020-10-22 12:50:08 INFO  Request$Thread:48 - /register
+2020-10-22 12:50:09 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:09 INFO  HttpClient:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER5UVtDVUlaUFpEQUFdWkRQRVRbU1cHUVRPVkZYV1FDQkdIU0BBXl1zXVFMVUpGWUxGQEFUQQg=
+2020-10-22 12:50:09 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:09 INFO  Request$Thread:48 - /home
+2020-10-22 12:50:09 INFO  Request$Thread:48 - /route/4
+2020-10-22 12:50:09 INFO  Request$Thread:48 - /route/3
+2020-10-22 12:50:09 INFO  Request$Thread:48 - /route/2
+2020-10-22 12:50:09 INFO  Request$Thread:48 - /route/1
+2020-10-22 12:50:14 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:14 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:14 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:14 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:14 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:14 INFO  Request$Thread:63 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 12:50:14 INFO  Request$Thread:48 - /route/1/1
+2020-10-22 12:50:14 INFO  Request$Thread:48 - /route/1/2
+2020-10-22 12:50:14 INFO  Request$Thread:48 - /route/3/3
+2020-10-22 12:50:14 INFO  Request$Thread:48 - /route/3/1
+2020-10-22 12:50:14 INFO  Request$Thread:48 - /route/3/2
+2020-10-22 12:50:14 INFO  Request$Thread:63 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:50:14 INFO  Request$Thread:63 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 INFO  Request$Thread:63 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 12:50:19 INFO  Request$Thread:63 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:19 INFO  Request$Thread:63 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 12:50:19 INFO  Request$Thread:63 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 12:50:20 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:20 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:20 INFO  Request$Thread:63 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 12:50:20 INFO  Request$Thread:48 - /route/3/3/1
+2020-10-22 12:50:20 INFO  Request$Thread:48 - /route/3/3/2
+2020-10-22 12:50:26 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:26 INFO  Request$Thread:63 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 12:50:26 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:26 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:26 INFO  Request$Thread:63 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 12:50:27 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:50:27 INFO  Request$Thread:63 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 12:50:28 INFO  Main:15 - == Collected were finished ==
+2020-10-22 12:50:28 INFO  TcpMultiServer:23 - TCP Multi-Server Started
+2020-10-22 12:57:28 INFO  Main:10 - Start
+2020-10-22 12:57:28 INFO  Request$Thread:48 - /register
+2020-10-22 12:57:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:29 INFO  HttpClient:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER5UVtDUklcUFpETUpcV0ZQRVRbU1cHUVRPVkZYV1FDQkdIU0BBXl1zXVZMV0pGWUBNQEVSQQg=
+2020-10-22 12:57:29 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:29 INFO  Request$Thread:48 - /home
+2020-10-22 12:57:29 INFO  Request$Thread:48 - /route/4
+2020-10-22 12:57:29 INFO  Request$Thread:48 - /route/3
+2020-10-22 12:57:29 INFO  Request$Thread:48 - /route/2
+2020-10-22 12:57:29 INFO  Request$Thread:48 - /route/1
+2020-10-22 12:57:34 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:34 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:34 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:34 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:34 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:34 INFO  Request$Thread:63 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 12:57:34 INFO  Request$Thread:48 - /route/1/1
+2020-10-22 12:57:34 INFO  Request$Thread:48 - /route/1/2
+2020-10-22 12:57:34 INFO  Request$Thread:48 - /route/3/3
+2020-10-22 12:57:34 INFO  Request$Thread:48 - /route/3/1
+2020-10-22 12:57:34 INFO  Request$Thread:48 - /route/3/2
+2020-10-22 12:57:34 INFO  Request$Thread:63 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:57:34 INFO  Request$Thread:63 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 INFO  Request$Thread:63 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 12:57:39 INFO  Request$Thread:63 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:39 INFO  Request$Thread:63 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 12:57:39 INFO  Request$Thread:63 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 12:57:40 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:40 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:40 INFO  Request$Thread:63 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 12:57:40 INFO  Request$Thread:48 - /route/3/3/1
+2020-10-22 12:57:40 INFO  Request$Thread:48 - /route/3/3/2
+2020-10-22 12:57:46 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:46 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:46 INFO  Request$Thread:63 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 12:57:46 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:46 INFO  Request$Thread:63 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 12:57:47 WARN  HttpClient:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 12:57:47 INFO  Request$Thread:63 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 12:57:48 INFO  Main:14 - Finish
+2020-10-22 12:57:48 INFO  TcpMultiServer:23 - TCP Multi-Server Started
+2020-10-22 14:40:21 INFO  Main:7 - Start
+2020-10-22 14:40:21 INFO  Request$Thread:47 - /register
+2020-10-22 14:40:22 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:22 INFO  ClientHTTP:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER4WVtCVUlcW1pFQERTU0dQRVRbU1cHUVRPVkZYV1FDQkdIU0BBX1VzXFFMV0FGWE1DT0BXQQg=
+2020-10-22 14:40:22 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:22 INFO  Request$Thread:47 - /home
+2020-10-22 14:40:22 INFO  Request$Thread:47 - /route/4
+2020-10-22 14:40:22 INFO  Request$Thread:47 - /route/3
+2020-10-22 14:40:22 INFO  Request$Thread:47 - /route/2
+2020-10-22 14:40:22 INFO  Request$Thread:47 - /route/1
+2020-10-22 14:40:27 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:27 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:27 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:27 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:27 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:27 INFO  Request$Thread:62 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 14:40:27 INFO  Request$Thread:47 - /route/1/1
+2020-10-22 14:40:27 INFO  Request$Thread:47 - /route/1/2
+2020-10-22 14:40:27 INFO  Request$Thread:47 - /route/3/3
+2020-10-22 14:40:27 INFO  Request$Thread:47 - /route/3/1
+2020-10-22 14:40:27 INFO  Request$Thread:47 - /route/3/2
+2020-10-22 14:40:27 INFO  Request$Thread:62 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 14:40:27 INFO  Request$Thread:62 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 INFO  Request$Thread:62 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 14:40:32 INFO  Request$Thread:62 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:32 INFO  Request$Thread:62 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 14:40:32 INFO  Request$Thread:62 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 14:40:33 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:33 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:33 INFO  Request$Thread:62 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 14:40:33 INFO  Request$Thread:47 - /route/3/3/1
+2020-10-22 14:40:33 INFO  Request$Thread:47 - /route/3/3/2
+2020-10-22 14:40:39 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:39 INFO  Request$Thread:62 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 14:40:39 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:39 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:39 INFO  Request$Thread:62 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 14:40:40 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:40:40 INFO  Request$Thread:62 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 14:40:41 INFO  Main:11 - Finish
+2020-10-22 14:40:41 INFO  TcpServer:13 - TCP Multi-Server Started
+2020-10-22 14:48:59 INFO  Main:7 - Start
+2020-10-22 14:48:59 INFO  Request$Thread:47 - /register
+2020-10-22 14:49:00 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:00 INFO  ClientHTTP:80 - Access Token Received : TxAMCx5NTlRKV1FcQ1pUUV9TXER4WVtCXElaWVpESUdTWkdQRVRbU1cHUVRPVkZYV1FDQkdIU0BBX1VzXFhMVUNGWURATkJTQQg=
+2020-10-22 14:49:00 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:00 INFO  Request$Thread:47 - /home
+2020-10-22 14:49:00 INFO  Request$Thread:47 - /route/4
+2020-10-22 14:49:00 INFO  Request$Thread:47 - /route/3
+2020-10-22 14:49:00 INFO  Request$Thread:47 - /route/2
+2020-10-22 14:49:00 INFO  Request$Thread:47 - /route/1
+2020-10-22 14:49:05 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:05 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:05 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:05 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:05 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:05 INFO  Request$Thread:62 - Result from /route/3 application/json 
+[{"id":1,"first_name":"Foster","last_name":"Ertelt","card_number":"633110490571233798","card_balance":"$9632.09","card_currency":"PKR"},
+{"id":2,"first_name":"Vinni","last_name":"Hulland","card_number":"3572930550290464","card_balance":"$376.34","card_currency":"JPY"},
+{"id":4,"first_name":"Randolf","last_name":"Terbrugge","card_number":"491198425137895662","card_balance":"$7216.38","card_currency":"PLN"},
+{"id":5,"first_name":"Loella","last_name":"Adriano","card_number":"3570354720410328","card_balance":"$7148.32","card_currency":"KZT"},
+{"id":8,"first_name":"Brandise","last_name":"Richichi","card_number":"676288665672350550","card_balance":"$1628.24","card_currency":"IDR"},
+{"id":9,"first_name":"Fielding","last_name":"Solomonides","card_number":"5100145771458404","card_balance":"$647.05","card_currency":"COP"}]
+
+2020-10-22 14:49:05 INFO  Request$Thread:47 - /route/1/1
+2020-10-22 14:49:05 INFO  Request$Thread:47 - /route/1/2
+2020-10-22 14:49:05 INFO  Request$Thread:47 - /route/3/3
+2020-10-22 14:49:05 INFO  Request$Thread:47 - /route/3/1
+2020-10-22 14:49:05 INFO  Request$Thread:47 - /route/3/2
+2020-10-22 14:49:05 INFO  Request$Thread:62 - Result from /route/2 text/csv 
+[ {
+  "id" : "2",
+  "first_name" : "Rosette",
+  "last_name" : "Borg",
+  "email" : "rborg1@howstuffworks.com",
+  "gender" : "Female",
+  "ip_address" : "136.40.51.238"
+}, {
+  "id" : "4",
+  "first_name" : "Heath",
+  "last_name" : "Siberry",
+  "email" : "hsiberry3@sciencedaily.com",
+  "gender" : "Female",
+  "ip_address" : "18.4.160.48"
+}, {
+  "id" : "5",
+  "first_name" : "Ethelbert",
+  "last_name" : "Havill",
+  "email" : "ehavill4@webmd.com",
+  "gender" : "Male",
+  "ip_address" : "72.177.185.174"
+}, {
+  "id" : "6",
+  "first_name" : "Luce",
+  "last_name" : "Hellard",
+  "email" : "lhellard5@zimbio.com",
+  "gender" : "Male",
+  "ip_address" : "142.222.82.249"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 14:49:05 INFO  Request$Thread:62 - Result from /route/1 application/xml 
+{"record":{"id":"10","first_name":"Jeannie","last_name":"Touhig","bitcoin_address":"1J8Bpk1GDt2vwe33eqaN4T31aheYEGudb6"}}
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 INFO  Request$Thread:62 - Result from /route/1/1 application/xml 
+{"record":{"id":"7","first_name":"Brigit","last_name":"Curless","bitcoin_address":"1AQKrdRPHMAuGbkPFmmGsPfrCJm8YqS69J"}}
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 INFO  Request$Thread:62 - Result from /route/3/2 text/csv 
+[ {
+  "id" : "1",
+  "username" : "nryce0",
+  "email" : "rpicardo0@gizmodo.com",
+  "created_account_data" : "11/27/2018"
+}, {
+  "id" : "2",
+  "username" : "rmarkwick1",
+  "email" : "tcoward1@tinyurl.com",
+  "created_account_data" : "12/18/2018"
+}, {
+  "id" : "5",
+  "username" : "sbuttress4",
+  "email" : "kgoulbourne4@miitbeian.gov.cn",
+  "created_account_data" : "12/24/2018"
+}, {
+  "id" : "7",
+  "username" : "apettinger6",
+  "email" : "bdarycott6@ehow.com",
+  "created_account_data" : "4/29/2019"
+}, {
+  "id" : "9",
+  "username" : "pdaniello8",
+  "email" : "cspilisy8@cpanel.net",
+  "created_account_data" : "6/22/2019"
+}, {
+  "id" : "10",
+  "username" : "gclift9",
+  "email" : "rgueste9@joomla.org",
+  "created_account_data" : "1/4/2019"
+} ]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 INFO  Request$Thread:62 - Result from /route/1/2 text/csv 
+[ {
+  "id" : "1",
+  "first_name" : "Jermayne",
+  "last_name" : "Stevings",
+  "email" : "jstevings0@time.com",
+  "gender" : "Male",
+  "ip_address" : "126.144.109.82"
+}, {
+  "id" : "3",
+  "first_name" : "Tildy",
+  "last_name" : "Guiso",
+  "email" : "tguiso2@wix.com",
+  "gender" : "Female",
+  "ip_address" : "235.113.1.92"
+}, {
+  "id" : "7",
+  "first_name" : "Courtney",
+  "last_name" : "Swainger",
+  "email" : "cswainger6@nbcnews.com",
+  "gender" : "Female",
+  "ip_address" : "120.31.214.140"
+}, {
+  "id" : "8",
+  "first_name" : "Jodi",
+  "last_name" : "O'Carroll",
+  "email" : "jocarroll7@springer.com",
+  "gender" : "Female",
+  "ip_address" : "92.48.44.22"
+}, {
+  "id" : "9",
+  "first_name" : "Katusha",
+  "last_name" : "Greenough",
+  "email" : "kgreenough8@last.fm",
+  "gender" : "Female",
+  "ip_address" : "71.223.55.209"
+}, {
+  "id" : "10",
+  "first_name" : "Court",
+  "last_name" : "Munn",
+  "email" : "cmunn9@pagesperso-orange.fr",
+  "gender" : "Male",
+  "ip_address" : "213.122.242.170"
+} ]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:10 INFO  Request$Thread:62 - Result from /route/3/1 application/x-yaml 
+[{"id":3,"first_name":"Collie","last_name":"Venable","card_number":"6304878179713534098","card_balance":null,"card_currency":null},{"id":6,"first_name":"Caroljean","last_name":"Colwill","card_number":"3540356838728217","card_balance":"$8796.02","card_currency":"IRR"},{"id":7,"first_name":"Nikki","last_name":"Arnauduc","card_number":"3580161468579083","card_balance":"$9476.63","card_currency":"PKR"},{"id":10,"first_name":"Riobard","last_name":"Smeall","card_number":"5307839238517296","card_balance":null,"card_currency":null}]
+2020-10-22 14:49:11 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:11 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:11 INFO  Request$Thread:62 - Result from /route/3/3 text/csv 
+[ {
+  "id" : "3",
+  "username" : "mdraayer2",
+  "email" : "fwindows2@myspace.com",
+  "created_account_data" : "4/5/2019"
+}, {
+  "id" : "4",
+  "username" : "adiemer3",
+  "email" : "rrydings3@qq.com",
+  "created_account_data" : "2/8/2019"
+}, {
+  "id" : "6",
+  "username" : "gliddicoat5",
+  "email" : "kableson5@omniture.com",
+  "created_account_data" : "7/2/2019"
+}, {
+  "id" : "8",
+  "username" : "cgrolle7",
+  "email" : "tbeardshall7@w3.org",
+  "created_account_data" : "9/7/2019"
+}, {
+  "id" : "12",
+  "username" : "astoakleyb",
+  "email" : "rannottb@shop-pro.jp",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "15",
+  "username" : "bhrinchenkoe",
+  "email" : "csollnere@angelfire.com",
+  "created_account_data" : "5/23/2019"
+}, {
+  "id" : "16",
+  "username" : "gridettf",
+  "email" : "jsimeonovf@theglobeandmail.com",
+  "created_account_data" : "11/8/2018"
+}, {
+  "id" : "20",
+  "username" : "amaccleayj",
+  "email" : "rfortnumj@dedecms.com",
+  "created_account_data" : "12/27/2018"
+} ]
+2020-10-22 14:49:11 INFO  Request$Thread:47 - /route/3/3/1
+2020-10-22 14:49:11 INFO  Request$Thread:47 - /route/3/3/2
+2020-10-22 14:49:17 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:17 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:17 INFO  Request$Thread:62 - Result from /route/3/3/1 text/csv 
+[ {
+  "id" : "11",
+  "username" : "ncowopea",
+  "email" : "bedisa@soup.io",
+  "created_account_data" : "3/11/2019"
+}, {
+  "id" : "13",
+  "username" : "twickeyc",
+  "email" : "vlowsonc@privacy.gov.au",
+  "created_account_data" : "7/26/2019"
+}, {
+  "id" : "14",
+  "username" : "ebastind",
+  "email" : "bfarrearsd@ca.gov",
+  "created_account_data" : "12/20/2018"
+}, {
+  "id" : "17",
+  "username" : "shenningtong",
+  "email" : "blumberg@paypal.com",
+  "created_account_data" : "11/26/2018"
+}, {
+  "id" : "18",
+  "username" : "vgioanih",
+  "email" : "iandreoneh@hubpages.com",
+  "created_account_data" : "6/18/2019"
+}, {
+  "id" : "19",
+  "username" : "rbeckinghami",
+  "email" : "rrockelli@shop-pro.jp",
+  "created_account_data" : "3/25/2019"
+} ]
+2020-10-22 14:49:17 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:17 INFO  Request$Thread:62 - Result from /route/3/3/2 application/json 
+[{"email":"dtyas0@github.com","organization":"Zoonder","full_name":"Druci Tyas","employee_id":"36-0066196"},
+{"email":"edonaghy1@networkadvertising.org","organization":"Babbleblab","full_name":"Evvy Donaghy","employee_id":"12-2365264"},
+{"email":"gagerskow5@adobe.com","organization":"Meemm","full_name":"Gary Agerskow","employee_id":"11-7548723"},
+{"email":"iolenane6@imageshack.us","organization":"Pixope","full_name":"Isidore O'Lenane","employee_id":"64-8427054"},
+{"email":"vwynett7@ed.gov","organization":"Dazzlesphere","full_name":"Vikky Wynett","employee_id":"01-7700844"},
+{"email":"ssagee@amazonaws.com","organization":"Jaloo","full_name":"Shawn Sage","employee_id":"55-0926932"},
+{"email":"fblaslif@people.com.cn","organization":"Realcube","full_name":"Fabian Blasli","employee_id":"30-9035208"},
+{"email":"jswanng@eventbrite.com","organization":"Yotz","full_name":"Jacquenetta Swann","employee_id":"03-4127236"},
+{"email":"ashopcotth@ifeng.com","organization":"Voonder","full_name":"Antin Shopcott","employee_id":"73-4525498"},]
+
+2020-10-22 14:49:18 WARN  ClientHTTP:77 - A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2020-10-22 14:49:18 INFO  Request$Thread:62 - Result from /route/4 application/json 
+[{"email":"hschukert2@arizona.edu","organization":"Bubblebox","full_name":"Heath Schukert","employee_id":"32-8682356"},
+{"email":"dbeautyman3@liveinternet.ru","organization":"Riffwire","full_name":"Daryl Beautyman","employee_id":"60-9658600"},
+{"email":"omacneilage4@cargocollective.com","organization":"Topicblab","full_name":"Orelle MacNeilage","employee_id":"74-5679141"},
+{"email":"kscamal8@jigsy.com","organization":"Yakijo","full_name":"Konrad Scamal","employee_id":"15-1125145"},
+{"email":"rdowning9@vimeo.com","organization":"Jabbertype","full_name":"Rancell Downing","employee_id":"87-0369483"},
+{"email":"aparnhama@printfriendly.com","organization":"Minyx","full_name":"Alyson Parnham","employee_id":"93-0291368"},
+{"email":"folenaneb@qq.com","organization":"Yotz","full_name":"Flemming O'Lenane","employee_id":"64-6365740"},
+{"email":"jpavlitschekc@cnbc.com","organization":"Flipopia","full_name":"Jessamyn Pavlitschek","employee_id":"13-1792324"},
+{"email":"aabrahartd@mayoclinic.com","organization":"Oyoyo","full_name":"Angelia Abrahart","employee_id":"42-7009055"},
+{"email":"mjelki@nih.gov","organization":"Kazu","full_name":"Marshal Jelk","employee_id":"83-6689710"},
+{"email":"cdoustj@yellowpages.com","organization":"Zoomlounge","full_name":"Cass Doust","employee_id":"10-4732717"}]
+
+2020-10-22 14:49:19 INFO  Main:11 - Finish
+2020-10-22 14:49:19 INFO  TcpServer:11 - TCP Multi-Server Started
